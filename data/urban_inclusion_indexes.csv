@@ -1,0 +1,275 @@
+city,state,economic_inclusion_index_2016,racial_inclusion_index_2016
+Fremont,CA,1.585,1.646
+Sunnyvale,CA,1.749,0.933
+Bellevue,WA,1.778,0.909
+Santa Clara,CA,1.172,1.319
+Daly City,CA,0.875,1.461
+Torrance,CA,1.099,1.090
+West Covina,CA,0.874,1.255
+Burbank,CA,0.803,1.185
+Miramar,FL,0.228,1.642
+Naperville,IL,1.527,0.585
+Elk Grove,CA,0.752,1.169
+San Francisco,CA,1.116,0.771
+Norwalk,CA,0.375,1.349
+Downey,CA,1.007,0.821
+Carlsbad,CA,1.368,0.513
+Hayward,CA,0.589,1.097
+Glendale,CA,0.084,1.495
+Killeen,TX,0.364,1.240
+Pembroke Pines,FL,0.197,1.360
+Henderson,NV,0.909,0.731
+Plano,TX,1.140,0.529
+Livonia,MI,1.516,0.160
+Huntington Beach,CA,0.863,0.670
+Thousand Oaks,CA,1.095,0.458
+Cambridge,MA,1.354,0.244
+Roseville,CA,0.736,0.732
+Palm Bay,FL,0.366,0.958
+Simi Valley,CA,0.691,0.674
+Sterling Heights,MI,0.737,0.635
+Overland Park,KS,1.342,0.127
+Chandler,AZ,0.804,0.527
+Vallejo,CA,0.151,1.037
+Peoria,AZ,0.779,0.523
+Norman,OK,0.791,0.509
+Clarksville,TN,0.631,0.565
+Virginia Beach,VA,0.874,0.348
+San Jose,CA,0.688,0.456
+McKinney,TX,0.736,0.413
+Hampton,VA,0.642,0.462
+Grand Prairie,TX,0.249,0.750
+Chula Vista,CA,0.129,0.818
+Jersey City,NJ,0.029,0.889
+Seattle,WA,1.042,0.043
+Fort Collins,CO,0.565,0.392
+Fontana,CA,0.047,0.797
+Antioch,CA,0.062,0.764
+Fullerton,CA,0.440,0.449
+Chesapeake,VA,0.563,0.320
+Fairfield,CA,0.141,0.655
+Modesto,CA,0.493,0.369
+Mesquite,TX,0.095,0.669
+Vancouver,WA,0.442,0.377
+Arvada,CO,0.707,0.159
+Ann Arbor,MI,0.616,0.230
+Pasadena,CA,0.340,0.445
+Oceanside,CA,0.447,0.350
+Scottsdale,AZ,0.970,-0.070
+Fayetteville,NC,0.052,0.659
+West Jordan,UT,0.825,0.031
+Orange,CA,0.625,0.183
+Anchorage,AK,0.615,0.177
+Corpus Christi,TX,0.117,0.528
+Inglewood,CA,-0.473,0.988
+El Paso,TX,-0.131,0.710
+Corona,CA,0.050,0.563
+Camden,NJ,-1.129,1.489
+Billings,MT,0.733,-0.005
+Columbia,MO,0.621,0.073
+Boise City,ID,0.571,0.091
+Murfreesboro,TN,0.687,-0.007
+Paterson,NJ,-0.774,1.154
+Westminster,CO,0.753,-0.079
+Manchester,NH,0.832,-0.151
+North Las Vegas,NV,-0.081,0.576
+Everett,WA,0.338,0.238
+Lancaster,CA,0.133,0.385
+Cape Coral,FL,0.105,0.391
+Parma,OH,1.205,-0.505
+Newark,NJ,-0.540,0.886
+Midland,TX,0.598,-0.026
+Sacramento,CA,-0.008,0.437
+Berkeley,CA,0.547,-0.017
+Hollywood,FL,-0.010,0.422
+New Haven,CT,-0.093,0.478
+Detroit,MI,-0.866,1.085
+Irving,TX,0.052,0.349
+Pomona,CA,-0.452,0.739
+Carrollton,TX,0.414,0.036
+Concord,CA,0.291,0.112
+Lowell,MA,0.565,-0.111
+Gary,IN,-0.640,0.850
+Newport News,VA,0.524,-0.087
+Richmond,CA,0.261,0.122
+Madison,WI,0.749,-0.289
+Victorville,CA,-0.567,0.760
+Riverside,CA,0.008,0.299
+Provo,UT,-0.040,0.324
+Tempe,AZ,0.247,0.089
+Garland,TX,0.083,0.201
+Olathe,KS,0.918,-0.472
+Cedar Rapids,IA,1.040,-0.590
+Tacoma,WA,-0.006,0.231
+Visalia,CA,0.318,-0.044
+Jacksonville,FL,0.023,0.180
+Charleston,SC,0.742,-0.399
+Portland,OR,0.262,-0.016
+Albuquerque,NM,-0.369,0.482
+Eugene,OR,0.418,-0.151
+Gainesville,FL,-0.144,0.296
+Pueblo,CO,-0.610,0.652
+Ontario,CA,-0.190,0.313
+Costa Mesa,CA,0.456,-0.207
+St. Petersburg,FL,0.328,-0.128
+Colorado Springs,CO,0.174,-0.009
+Lakewood,CO,0.152,-0.002
+Anaheim,CA,-0.044,0.148
+Beaumont,TX,-0.041,0.144
+Davenport,IA,0.487,-0.280
+Worcester,MA,0.258,-0.105
+San Diego,CA,0.024,0.072
+Rochester,MN,0.739,-0.507
+Palmdale,CA,-0.320,0.338
+Bridgeport,CT,-0.240,0.273
+Stockton,CA,-0.388,0.366
+Santa Rosa,CA,0.387,-0.254
+Hammond,IN,0.036,0.018
+Garden Grove,CA,-0.014,0.047
+Birmingham,AL,-0.441,0.383
+Reno,NV,0.008,0.018
+Oxnard,CA,-0.253,0.220
+Thornton,CO,0.192,-0.145
+Hartford,CT,-0.239,0.196
+Providence,RI,0.022,-0.031
+Elgin,IL,0.542,-0.450
+Denton,TX,0.140,-0.137
+Elizabeth,NJ,-0.447,0.312
+Columbus,OH,0.009,-0.067
+San Antonio,TX,-0.444,0.295
+Lincoln,NE,0.588,-0.535
+Fargo,ND,0.931,-0.812
+Athens,GA,-0.279,0.155
+Abilene,TX,-0.318,0.163
+Augusta,GA,-0.416,0.223
+Spokane,WA,-0.120,-0.033
+Portsmouth,VA,-0.153,-0.033
+Lansing,MI,-0.050,-0.131
+Springfield,MO,-0.153,-0.054
+McAllen,TX,-0.558,0.270
+Roanoke,VA,0.015,-0.192
+Independence,MO,0.476,-0.563
+Boston,MA,0.298,-0.430
+Wichita Falls,TX,-0.108,-0.117
+Savannah,GA,-0.585,0.262
+Durham,NC,0.252,-0.410
+Orlando,FL,-0.366,0.082
+Raleigh,NC,0.187,-0.370
+Bakersfield,CA,-0.187,-0.073
+Stamford,CT,0.116,-0.323
+Topeka,KS,0.033,-0.292
+Austin,TX,-0.219,-0.095
+Waterbury,CT,0.121,-0.379
+Nashville,TN,-0.038,-0.261
+Pittsburgh,PA,0.212,-0.473
+Las Vegas,NV,-0.233,-0.123
+Washington,DC,-0.066,-0.260
+Baltimore,MD,-0.290,-0.087
+New Bedford,MA,0.008,-0.327
+Aurora,IL,0.103,-0.404
+Aurora,CO,-0.189,-0.175
+Lubbock,TX,-0.290,-0.094
+Hialeah,FL,-1.145,0.573
+Lexington,KY,0.275,-0.564
+Dearborn,MI,-1.099,0.534
+Norfolk,VA,-0.178,-0.238
+Fort Worth,TX,-0.239,-0.202
+Akron,OH,-0.062,-0.353
+Tucson,AZ,-0.664,0.116
+Duluth,MN,0.520,-0.838
+Chattanooga,TN,0.202,-0.598
+Charlotte,NC,-0.162,-0.318
+Allentown,PA,-0.245,-0.261
+Pasadena,TX,-0.604,0.021
+Salem,OR,0.202,-0.626
+Tallahassee,FL,-0.417,-0.140
+Flint,MI,-0.972,0.297
+Green Bay,WI,0.612,-0.981
+Wichita,KS,-0.176,-0.367
+Philadelphia,PA,-0.364,-0.218
+New York,NY,-0.334,-0.248
+Alexandria,VA,-0.045,-0.479
+Mobile,AL,-0.209,-0.357
+Warren,MI,-0.290,-0.294
+El Monte,CA,-0.634,-0.027
+Des Moines,IA,0.060,-0.590
+Columbus,GA,-0.473,-0.178
+Arlington,TX,-0.450,-0.212
+Waco,TX,-0.663,-0.045
+Salinas,CA,-0.323,-0.329
+Chicago,IL,-0.391,-0.287
+Cleveland,OH,-0.513,-0.193
+Oakland,CA,-0.438,-0.262
+Greensboro,NC,-0.047,-0.578
+Glendale,AZ,-0.485,-0.231
+Peoria,IL,-0.177,-0.504
+High Point,NC,-0.202,-0.486
+Amarillo,TX,-0.247,-0.464
+Yonkers,NY,-0.187,-0.517
+Oklahoma City,OK,-0.413,-0.338
+Syracuse,NY,-0.236,-0.481
+Denver,CO,-0.373,-0.377
+San Bernardino,CA,-1.034,0.147
+Louisville,KY,-0.156,-0.585
+Kansas City,MO,-0.337,-0.445
+Long Beach,CA,-0.376,-0.418
+Columbia,SC,-0.114,-0.644
+Dayton,OH,-0.343,-0.485
+Brownsville,TX,-0.890,-0.082
+Santa Ana,CA,-0.468,-0.421
+Sioux Falls,SD,0.530,-1.224
+Toledo,OH,-0.257,-0.595
+Laredo,TX,-1.457,0.365
+Kansas City,KS,-0.844,-0.128
+Cincinnati,OH,-0.380,-0.508
+Joliet,IL,-0.339,-0.560
+Salt Lake City,UT,-0.151,-0.715
+Youngstown,OH,-0.756,-0.256
+Indianapolis,IN,-0.405,-0.559
+Canton,OH,-0.454,-0.529
+Tampa,FL,-0.708,-0.329
+Trenton,NJ,-1.544,0.336
+Winston-Salem,NC,-0.362,-0.630
+Albany,NY,-0.466,-0.552
+Los Angeles,CA,-0.807,-0.280
+Tulsa,OK,-0.763,-0.320
+Little Rock,AR,-0.520,-0.537
+Mesa,AZ,-0.347,-0.685
+Macon,GA,-0.589,-0.507
+Knoxville,TN,-0.378,-0.706
+Escondido,CA,-0.712,-0.449
+Montgomery,AL,-0.514,-0.618
+Rochester,NY,-0.649,-0.525
+Baton Rouge,LA,-0.802,-0.419
+Grand Rapids,MI,-0.238,-0.878
+Minneapolis,MN,0.123,-1.172
+Wilmington,NC,-0.298,-0.839
+Jackson,MS,-0.840,-0.419
+Huntsville,AL,-0.135,-0.983
+St. Louis,MO,-0.526,-0.688
+Buffalo,NY,-0.612,-0.622
+Clearwater,FL,-0.787,-0.498
+Omaha,NE,-0.045,-1.144
+Evansville,IN,-0.782,-0.557
+Fresno,CA,-1.091,-0.316
+Erie,PA,-0.410,-0.863
+Milwaukee,WI,-0.587,-0.732
+Scranton,PA,-0.145,-1.090
+New Orleans,LA,-1.112,-0.358
+Fort Lauderdale,FL,-0.744,-0.656
+Lafayette,LA,-0.210,-1.088
+Gresham,OR,-0.874,-0.588
+Fort Wayne,IN,-0.257,-1.162
+Richmond,VA,-0.757,-0.767
+Memphis,TN,-1.167,-0.447
+Rockford,IL,-0.860,-0.725
+Springfield,MA,-0.651,-0.900
+Phoenix,AZ,-0.904,-0.698
+St. Paul,MN,-0.277,-1.200
+Atlanta,GA,-0.703,-0.891
+Miami,FL,-1.689,-0.107
+Springfield,IL,-0.664,-1.050
+South Bend,IN,-0.841,-0.933
+Dallas,TX,-1.290,-0.657
+Houston,TX,-1.099,-0.890
+Shreveport,LA,-1.313,-0.834
